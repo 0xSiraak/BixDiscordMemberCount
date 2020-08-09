@@ -1,2 +1,8 @@
-# BixDiscordMemberCount
-Code open source d'un compteur de membre utilisant uniquement la librairie discord.js.
+# Utilité
+Compteur de membre discord open source libre d'utilisation.
+
+# Pré-requis
+npm i discord.js
+
+# Fonctionnement
+Exemple : /bix_count
